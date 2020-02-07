@@ -15,7 +15,7 @@ $ project one
 Source Code: github.com/abubakr223/Project-1
 
 ## Tracker 
-A documentation of all code used in the project: Our code is built using html ,css for styling and a bit of Javascript.
+A documentation of all code used in the project: Our code is built using html ,css for styling and a bit of php.
 
 ## A LIST OF VERSIONS OF THE FILES
 
