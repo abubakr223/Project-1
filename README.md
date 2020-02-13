@@ -1,9 +1,8 @@
 ## Description
 
-The app that I made is a meditation app that I made with html,css and java script
-Features 
-It such as changing background music and a timer 
-Citation
+This is a site i made about rugby  
+
+##Citation
 
 1.	One front page with all the content on it 
 Installation 
@@ -21,7 +20,7 @@ A documentation of all code used in the project: Our code is built using html ,c
 
 •	index.html
 •	style.css
-•	app.js
+•	main.js
 ## Support
 If you are having issues, please let us know.
 
