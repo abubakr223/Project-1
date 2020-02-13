@@ -19,8 +19,12 @@ A documentation of all code used in the project: Our code is built using html ,c
 ## A LIST OF VERSIONS OF THE FILES
 
 •	index.html
+•	contact.html
 •	style.css
-•	main.js
+•	styles.html
+•	app.js
+
+
 ## Support
 If you are having issues, please let us know.
 
