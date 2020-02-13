@@ -2,7 +2,7 @@
 
 This is a site i made about rugby  
 
-##Citation
+## Citation
 
 1.	One front page with all the content on it 
 Installation 
