@@ -33,4 +33,6 @@ We have a mailing list located at: abubakrhartley001@gmail.com
 The project is licensed under the capacity.org.za
 
 ## You can check out the site here
-https://contact-me-22996.firebaseapp.com
+contact-me-22996.web.app
+
+contact-me-22996.firebaseapp.com
