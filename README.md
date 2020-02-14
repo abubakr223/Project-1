@@ -23,6 +23,9 @@ A documentation of all code used in the project: Our code is built using html ,c
 •	style.css
 •	styles.html
 •	app.js
+•	inde.html
+
+
 
 
 ## Support
@@ -33,6 +36,7 @@ We have a mailing list located at: abubakrhartley001@gmail.com
 The project is licensed under the capacity.org.za
 
 ## You can check out the site here
-contact-me-22996.web.app
+https://contact-me-22996.web.app
 
-contact-me-22996.firebaseapp.com
+https://contact-me-22996.firebaseapp.com
+
